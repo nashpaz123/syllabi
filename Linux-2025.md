@@ -89,6 +89,7 @@
 - **What We’ll Cover:**
   - Manipulating Text Files: `cat`, `grep`, `sed`, `awk`
   - Introduction to Basic Networking Commands: `ping`, `ifconfig`/`ip`, `curl`, `netstat`, `traceroute`, `host`
+  - Remoting and remote control: `telnet`, `ssh`, `scp`, `rsync`
   - Finding Additional Documentation and Community Resources
 
 - **Questions we'll answer:**
