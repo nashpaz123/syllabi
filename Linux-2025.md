@@ -88,7 +88,7 @@
 
 - **What We’ll Cover:**
   - Manipulating Text Files: `cat`, `grep`, `sed`, `awk`
-  - Introduction to Basic Networking Commands: `ping`, `ifconfig`/`ip`, `curl`, `netstat`
+  - Introduction to Basic Networking Commands: `ping`, `ifconfig`/`ip`, `curl`, `netstat`, `traceroute`, `host`
   - Finding Additional Documentation and Community Resources
 
 - **Questions we'll answer:**
