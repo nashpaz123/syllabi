@@ -9,7 +9,7 @@
 ## Session 1: Introduction to Linux (1 hour)
 
 - **What We’ll Cover:**
-  - Overview of Linux and its Families: Debian, Red Hat, Arch, SUSE, and more
+  - Overview of Linux and its Families: Debian, Red Hat, Arch, SUSE, and distros: Centos, Rocky, Ubuntu, Alpine
   - Linux Philosophy and Core Principles: Open Source, Community, “Do One Thing Well”
   - Linux Essentials, [terminology, concepts]: Kernel, Shell, Distributions, cli vs clicks
 
